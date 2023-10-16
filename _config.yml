@@ -61,3 +61,8 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+<aside id="sidebar">
+
+          <a href="ebuckley3.github.io/buckleycv/" class="button">Home</a>
+          <a href="teaching" class="button">Teaching</a>
+          <a href="projects" class="button">Projects</a>
